@@ -1,0 +1,45 @@
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+C:\Users\Administrator\Downloads\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+D:\2018\project\02_PC_HMI\hmi_pc_arduino_ok\demo\ArduinoModbusRTU to Advanced HMI-20180314T140440Z-001\ArduinoModbusRTU to Advanced HMI\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+D:\2018\project\02_PC_HMI\PC_HMI_Ver_1.0\AdvancedHMIv399x-2\AdvancedHMIv399x-2\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
